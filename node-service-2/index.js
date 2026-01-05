@@ -7,5 +7,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(3001, () => {
-  console.log("node-service-1 running on port 3001");
+  console.log("node-service-2 running on port 3001");
 });
